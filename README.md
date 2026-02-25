@@ -16,3 +16,10 @@ Beside's the requirements for it, a little note; this isn't for higher-ups or ba
 
 ## Download
 - https://github.com/EpicSpyMainWeabooMan42069Jboi/IsRealAnything-release-/releases/tag/IsRealAnything
+
+
+
+-**VirusTotal Scan**:  
+(for the one's with doubt)
+
+0/66 detections as of upload, which is nice :) 
