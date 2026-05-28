@@ -8,7 +8,7 @@ Installation: Install Fabric Loader for Minecraft 1.21.4
 
 Install Fabric API
 
-Download the latest release of IsRealAnything Place the .jar file into your .minecraft/mods folder Launch Minecraft with the Fabric profile
+Download the latest release of Is Anything Real At All Place the .jar file into your .minecraft/mods folder Launch Minecraft with the Fabric profile
 
 
 Contributing: This is a personal project, but contributions are welcome. And wow, look at that — 𝑵 𝒐 𝒕 𝒉 𝒊 𝒏 𝒈.
