@@ -10,10 +10,9 @@ Install Fabric API
 
 Download the latest release of IsRealAnything Place the .jar file into your .minecraft/mods folder Launch Minecraft with the Fabric profile
 
-Problems & Tech Stuff: “𝐓𝐡𝐞 𝐦𝐨𝐝 𝐝𝐨𝐞𝐬 𝐧𝐨𝐭 𝐩𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭𝐥𝐲 𝐚𝐥𝐭𝐞𝐫 𝐲𝐨𝐮𝐫 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 or other SUSSY BAKA things.” Obviously. N0t dumbass, but for the TOS dweebs, you gotta spell it out.
 
 Contributing: This is a personal project, but contributions are welcome. And wow, look at that — 𝑵 𝒐 𝒕 𝒉 𝒊 𝒏 𝒈.
 
 License This project is licensed under the MIT License. See the LICENSE file for details.
 
-⚠️ IMPORTANT Before you play: Expect the unexpected, and it's just a normal Mod for this game :)
+⚠️ IMPORTANT Before you play: Expect the unexpected, and it's just a normal Mod for this game :3
